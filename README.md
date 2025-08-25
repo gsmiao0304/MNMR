@@ -8,4 +8,4 @@
 - main program: MNMA_sim_v2.f
 - MCMC procedure: gibbsMNMA_sim_v2.f
 - helper functions and subroutines:
-- -
+  - optime1.f
